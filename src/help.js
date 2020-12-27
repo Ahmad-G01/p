@@ -99,6 +99,6 @@ command : *${prefix}simih*
 desc : activate simi mode in the group
 usage : *${prefix}simih 1* to activate simi mode and *${prefix}simih 0* to deactivate simi mode
 note : This command can be used if you are a group admin\n`
-*MODE BY GUSTIAN BOT* }
+}
 
 exports.help = help
