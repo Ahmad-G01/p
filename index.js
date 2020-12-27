@@ -642,7 +642,7 @@ const teks = text.replace(/.setdesc /, "")
     conn.groupUpdateDescription(idgrup, desk)
 conn.sendMessage(id, 'Succes Change Description Group' ,MessageType.text, { quoted: m } );
 
-})
+}
 else if (text == 'opengc'){
 let hasil = `${id.split("@s.whatsapp.net")[0]}`;
    conn.groupSettingChange (hasil, GroupSettingChange.messageSend, false);
