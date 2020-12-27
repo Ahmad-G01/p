@@ -18,7 +18,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+> git clone https://github.com/CONTOH254/p
 ```
 
 ## Install the dependencies:
@@ -26,7 +26,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd termux-wabot
+> cd p
 > bash install.sh
 ```
 
@@ -60,7 +60,8 @@ you've just cloned!!
 |       ✅        |   Kick Member Group	             |
 |       ✅        |   Add Member Group	             |
 |       ✅        |   Get List Admins Group          |
-
+|       ✅        |   Promote
+|       ✅        |   Demote
 | Owner Bot  |                     Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅        |   Set Prefix                     |
